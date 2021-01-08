@@ -1,1 +1,1 @@
-# qr studio design
+# QR studio design
